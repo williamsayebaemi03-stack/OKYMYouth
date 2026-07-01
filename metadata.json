@@ -1,0 +1,6 @@
+{
+  "name": "Okpoama Youth Movement",
+  "description": "Official portal for the Okpoama Youth Movement, featuring community history, leadership directories, empowerment program tracking, real-time group chats with an AI Advisor, and interactive polling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
